@@ -1,7 +1,6 @@
 ### Desenvolvedor mobile em constante aprendizado. 📱💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-lima-desenvolvedor-mobile/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/_wesleyglima)
 
 ![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleylimadeveloper&show_icons=true&theme=radical)
 
