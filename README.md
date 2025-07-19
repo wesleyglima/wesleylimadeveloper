@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-lima-desenvolvedor-mobile/)
 
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleylimadeveloper&show_icons=true&theme=radical)
+![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyglima&show_icons=true&theme=radical)
 
 ## Tecnologias que estudo e utilizo no meu dia a dia
 
